@@ -25,6 +25,7 @@ User Testing, User Journey, Pain Points, User Feedback,
 
 # Software Engineering
 
+# Requirement Gathering
 
 # Use Case Diagram
 
