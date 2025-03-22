@@ -36,6 +36,8 @@ User Testing, User Journey, Pain Points, User Feedback,
 # Use Case Diagram
 
 # Software Architecture 
+  <img src = "https://github.com/user-attachments/assets/b6dc06c9-7355-4384-9c9a-4862f9e9726b"/>
+</p>
 
 # Database Design
 
