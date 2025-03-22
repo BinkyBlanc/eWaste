@@ -17,6 +17,12 @@ Research Ideas for improvements, Solutions (Solving Problems), applied UX UI tip
 
 # Prototype 
 wireframe, mockup, prototype (re-do), user flow diagram
+<p>
+  <img src = "https://github.com/user-attachments/assets/709dc2d9-5946-42fd-97b2-086bb6a19633"/>
+</p>
+<p>
+  <img src = "https://github.com/user-attachments/assets/fe567461-dd00-43ad-bd95-57e96ae3bcce"/>
+</p>
 
 # Test
 User Testing, User Journey, Pain Points, User Feedback, 
