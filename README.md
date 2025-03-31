@@ -29,18 +29,9 @@ User Testing, User Journey, Pain Points, User Feedback,
 
 ---------------------------------------------------------------------------
 
-# Software Engineering
-
-# Requirement Gathering
-
-# Use Case Diagram
-
-# Software Architecture 
-
-
 # Database Design
   <img src = "https://github.com/user-attachments/assets/50e8861f-98d2-492d-a67a-229a1ff45c28"/>
 </p>
 
 
-# Architecture Pattern 
+
